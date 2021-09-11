@@ -3,6 +3,7 @@ const newscript-master=23;
 const newscript-feature2=54;
 
 const one-feature2="added after 1st merge from feature2";
+const newscript-master-feature2=23;
 
 const b = () => {
 
@@ -24,6 +25,6 @@ const c = () => {
 
 const d = () => {
 
-
+   console.log('Added this line from feature2');
 	console.log('Added this line from master');
 };
