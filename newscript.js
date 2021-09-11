@@ -22,3 +22,8 @@ const c = () => {
 	console.log('Added from Feature-1');
 };
 
+const d = () => {
+
+
+	console.log('Added this line from master');
+};
