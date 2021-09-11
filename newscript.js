@@ -9,5 +9,7 @@ const b = () => {
 	console.log('Added from master');
 
 	console.log('Added from feature1');
+	
+	console.log('Added from feature2 only feature2222');
 
 };
