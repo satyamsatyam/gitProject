@@ -15,6 +15,8 @@ const b = () => {
 	console.log('Added from feature1');
 	
 	console.log('Added from feature2 only feature2222');
+	
+	console.log('Today 12th aug and added by BulCherryGit ');
 
 };
 
