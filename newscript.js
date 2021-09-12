@@ -29,6 +29,8 @@ console.log('Added this line from master BulCherryGit');
 	console.log('Added this line from master');
 
 	console.log('Added from Feature-1');
+	
+	console.log('Today 12th aug and added by BulCherryGit ');
 };
 
 const d = () => {
