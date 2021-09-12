@@ -41,4 +41,7 @@ const d = () => {
 console.log('Added this line from feature1 for creating conflict');
    console.log('Added this line from feature2');
 	console.log('Added this line from master');
+	
+	 console.log('Added this lineFrom  Fork 111');
+	console.log('Added this line Fork 2222');
 };
