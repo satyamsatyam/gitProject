@@ -9,7 +9,7 @@ const one-feature11="added to create conflict from feature1";
 const newscript-master-feature2=23;
 
 const b = () => {
-
+console.log('Added this line from master CherryMoksha Fork');
 	console.log('Added from master');
 
 	console.log('Added from feature1');
@@ -21,6 +21,9 @@ const b = () => {
 };
 
 const c = () => {
+
+
+console.log('Added this line from master CherryMoksha Fork');
 
 console.log('Added this line from master BulCherryGit');
 	console.log('Added this line from master');
