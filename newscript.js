@@ -1,4 +1,6 @@
-const newscript-master=23;
+const newscript-master=923;
+
+const satyam-master=9231;
 
 const newscript-feature2=54;
 
